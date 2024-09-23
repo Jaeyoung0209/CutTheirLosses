@@ -2,7 +2,7 @@
 Game made for a 3-hour-long game jam  
 All aspects of the game made by me, can be played online: https://j02.itch.io/cut-their-losses
 
-![Screenshot (8)](https://github.com/user-attachments/assets/18cd4da6-5a2e-49fe-90ae-8f7c27332d91)
+![Screenshot (9)](https://github.com/user-attachments/assets/1c3da931-8bad-4c28-9179-ef2c36f639c6)
 
 # How to Play
 The point of the game is to cut as many items in the lost-and-found shelf as possible without getting caught
